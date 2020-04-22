@@ -43,10 +43,8 @@ _Uma lista dos comandos Git mais usados_
 | `git checkout [nome da branch]` | Seleciona uma branch |
 | `git checkout -` | Muda para a última branch |
 | `git checkout -- [nome-arquivo.txt]` | Descarta modificações de um arquivo |
-
 | `git merge [nome da branch]` | Faz um merge de uma branch na branch atual |
 | `git merge [source branch] [branch alvo]` | Faz um merge de uma branch em outra branch |
-
 | `git stash` | Tirar o estado sujo do seu diretório de trabalho |
 | `git stash clear` | Remove todas as entradas 'stash' |
 
