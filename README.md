@@ -48,7 +48,7 @@ _Uma lista dos comandos Git mais usados_
 | `git stash` | Tirar o estado sujo do seu diretório de trabalho |
 | `git stash clear` | Remove todas as entradas 'stash' |
 
-### Sharing & Updating Projects
+### Compartilhar & Subir Projects
 
 | Comando | Descrição |
 | ------- | --------- |
@@ -70,5 +70,5 @@ _Uma lista dos comandos Git mais usados_
 | `git diff [branch original] [branch alvo]` | Visualizar alterações antes de mesclar |
 
 
-Feito com :purple_heart: by [Felipe Schiavon] :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com :red_heart: by [Felipe Schiavon] :wave: [Linkedin!](https://www.linkedin.com/in/felipeschiavon/)
 Inspirado em joshnh / education.github / jedmao / pedronauck
