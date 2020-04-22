@@ -28,7 +28,7 @@ _Uma lista dos comandos Git mais usados_
 | `git commit -m "[Mensagem de Commit]"` | Comita as alterações |
 | `git rm -r [nome-arquivo.txt]` | Remove um arquivo (ou pasta) |
 
-### Branching & Merging
+### Ramificação & Mesclando
 
 | Comando | Descrição |
 | ------- | --------- |
