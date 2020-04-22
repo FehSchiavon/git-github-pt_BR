@@ -70,5 +70,5 @@ _Uma lista dos comandos Git mais usados_
 | `git diff [branch original] [branch alvo]` | Visualizar alterações antes de mesclar |
 
 
-
-//Inspiration joshnh / education.github / jedmao
+Feito com :purple_heart: by [Felipe Schiavon] :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Inspirado em joshnh / education.github / jedmao / pedronauck
