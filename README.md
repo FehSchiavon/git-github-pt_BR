@@ -70,5 +70,5 @@ _Uma lista dos comandos Git mais usados_
 | `git diff [branch original] [branch alvo]` | Visualizar alterações antes de mesclar |
 
 
-Feito com :heart: by <span>&#x1f1e7;&#x1f1f7;</span>: [Felipe Schiavon] :wave: [Linkedin!](https://www.linkedin.com/in/felipeschiavon/)
+Feito com :heart: by  [Felipe Schiavon] <span>&#x1f1e7;&#x1f1f7;</span> :wave: [Linkedin!](https://www.linkedin.com/in/felipeschiavon/)
 Inspirado em joshnh / education.github / jedmao / pedronauck
