@@ -9,6 +9,13 @@ _Uma lista dos comandos Git mais usados_
 *Se você está interessado em meus aliases do Git, dê uma olhada no meu `.bash_profile`, encontrado aqui: https://github.com/joshnh/bash_profile/blob/master/.bash_profile*
 
 --
+### Setup & Configurando Conta
+
+| Comando | Descrição |
+| ------- | --------- |
+| `git config --global user.name “[firstname]”` | Colocando seu nome |
+| `git config --global user.email “[valid-email]”` | Colocando seu e-mail usado no Github |
+| `git config --global color.ui auto”` | Deixando colorido para idenfificar alterações |
 
 ### Obtendo & Criação de Projetos
 
