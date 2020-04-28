@@ -6,8 +6,6 @@ ___
 
 _Uma lista dos comandos Git mais usados_
 
-*Se você está interessado em meus aliases do Git, dê uma olhada no meu `.bash_profile`, encontrado aqui: https://github.com/joshnh/bash_profile/blob/master/.bash_profile*
-
 --
 ### Setup & Configurando Conta
 
