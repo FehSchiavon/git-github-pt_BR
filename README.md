@@ -1,4 +1,4 @@
-Comandos Git Para 
+Comandos Git Para Brasileiros
 ============
 
 ## Versões traduzidas
