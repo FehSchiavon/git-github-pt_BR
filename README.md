@@ -29,7 +29,7 @@ _Uma lista dos comandos Git mais usados_
 | `git status` | Verifique ou Checa o status do seu repositorio|
 | `git add [nome-arquivo.txt]` | Adiciona um arquivo ou para todos que estão trabalhando no diretório |
 | `git add -i [nome-arquivo.txt]` | Adiciona arquivo através de um menu interativo |
-| `git add -A` | Adiciona todos os arquivos novos ou modificados para a área de stage |
+| `git add -A`/`git add .` | Adiciona todos os arquivos novos ou modificados para a área de stage |
 | `git commit -m "[Mensagem de Commit]"` | Comita as alterações |
 | `git rm -r [nome-arquivo.txt]` | Remove um arquivo (ou pasta) |
 
