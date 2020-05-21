@@ -31,6 +31,7 @@ _Uma lista dos comandos Git mais usados_
 | `git add -i [nome-arquivo.txt]` | Adiciona arquivo através de um menu interativo |
 | `git add -A`/`git add .` | Adiciona todos os arquivos novos ou modificados para a área de stage |
 | `git commit -m "[Mensagem de Commit]"` | Comita as alterações |
+| `git commit -am "[Mensagem de Commit]"` | Comita e já adiciona ao mesmo tempo |
 | `git rm -r [nome-arquivo.txt]` | Remove um arquivo (ou pasta) |
 
 ### Ramificação & Mesclando
