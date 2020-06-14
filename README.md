@@ -1,7 +1,7 @@
 Comandos Git Para Brasileiros
 ============
 <h1 align="center">
-    <img alt="GithubBR" title="#githubBR" src="githubBR.png" width="400px" />
+    <img alt="GithubBR" title="#githubBR" src="githubBR.png" width="300px" />
 </h1>
 
 ## Versões traduzidas
