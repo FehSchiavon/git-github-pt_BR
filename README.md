@@ -1,5 +1,8 @@
 Comandos Git Para Brasileiros
 ============
+<h1 align="center">
+    <img alt="GithubBR" title="#githubBR" src=".github/logo.svg" width="250px" />
+</h1>
 
 ## Versões traduzidas
 ___
